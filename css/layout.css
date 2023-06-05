@@ -121,15 +121,15 @@ header .scrolldown a:hover { color: #11ABB0; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
-#nav-wrap ul, #nav-wrap li, #nav-wrap a {
+#nav-menu ul, #nav-menu li, #nav-menu a {
 	 margin: 0;
 	 padding: 0;
 	 border: none;
 	 outline: none;
 }
 
-/* nav-wrap */
-#nav-wrap {
+/* nav-menu */
+#nav-menu {
    font: 12px 'opensans-bold', sans-serif;
    width: 100%;
    text-transform: uppercase;
@@ -143,7 +143,7 @@ header .scrolldown a:hover { color: #11ABB0; }
 .opaque { background-color: #333; }
 
 /* hide toggle button */
-#nav-wrap > a.mobile-btn { display: none; }
+#nav-menu > a.mobile-btn { display: none; }
 
 ul#nav {
    min-height: 48px;
