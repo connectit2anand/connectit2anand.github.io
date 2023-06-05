@@ -286,6 +286,34 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+#stats>div {
+   display: flex;
+   margin-left: 5%;
+   margin-bottom: 15%;
+ }
+ 
+ #stats img {
+   width: 67%;
+   transition: transform .3s;
+ }
+ 
+ #statsimg>img {
+   width: 85%;
+   margin-left: 5%;
+ }
+ 
+ #stats img:hover {
+   transform: scale(1.1);
+ }
+
+ .calendar {
+   padding: 1%;
+ }
+ 
+
+ 
+ 
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
