@@ -306,13 +306,13 @@ ul#nav li.current a { color: #F06000; }
    grid-gap: 20px;
  }
  
- .logo_div{
+ .skills-card{
    border-radius: 15px;
    border: 1px solid transparent;
    text-align: center;
  }
  
- .logo_div>img{
+ .skills-card>img{
     
    border: 1px solid transparent;
    width: 30%;
