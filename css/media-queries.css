@@ -62,9 +62,9 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
-   /* Skills
+   /* skills
    -------------------------------------------------------------------  */
-   #Skills .skills{
+   #skills .skills{
       grid-template-columns: repeat(3,1fr);
    }
 
@@ -261,7 +261,7 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
+   #projects-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
 
@@ -365,9 +365,9 @@
       font: 14px/1.9em 'librebaskerville-regular', sans-serif;
       width: 90%;
    }
-   /* Skills
+   /* skills
    -------------------------------------------------------------------  */
-   #Skills .skills{
+   #skills .skills{
       grid-template-columns: repeat(2,1fr);
    }
 
