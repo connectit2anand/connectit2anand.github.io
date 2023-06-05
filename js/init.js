@@ -19,7 +19,7 @@
 /* Smooth Scrolling
 ------------------------------------------------------ */
 
-   $('.smoothscroll').on('click',function (e) {
+   $('.nav-link').on('click',function (e) {
 	    e.preventDefault();
 
 	    var target = this.hash,
