@@ -2,7 +2,7 @@
 
 <p>Created using HTML CSS and JavaScript</p>
 
-![image](https://github.com/connectit2anand/connectit2anand.github.io/blob/main/images/i1.jpg)
+https://649163f47365aa0a9e7997b0--fluffy-granita-0eb7b5.netlify.app/#
 		 
 
 
