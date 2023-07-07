@@ -515,10 +515,10 @@ nav>div:nth-child(2)>ul>li>button>a {
     transition: all .2s linear;
   }
   #projects>div:nth-child(2)>div:nth-child(2)>div>div>div>img{
-    width: 80px;
+    width: 45px;
   }
   #projects>div:nth-child(2)>div:nth-child(2)>div>div>div>img:hover{
-    width: 90px;
+    width: 50px;
     transition: all .2s linear;
   }
   #projects>div:nth-child(2)>div:nth-child(1)>div>div>div>img{
